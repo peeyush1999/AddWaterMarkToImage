@@ -1,0 +1,2 @@
+Put Test folder containing question in it, For Example : Algorithms is Containing Questions in it.
+Folder and images may contain any name (Name will not be modified by script).Multiple folders can also be added, like present in current directory.
